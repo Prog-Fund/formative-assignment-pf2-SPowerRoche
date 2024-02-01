@@ -23,7 +23,6 @@ public class Product {
     public Product(String productName, int productCode, double unitCost, boolean inCurrentProductLine) {
        this.productName = productName;
        this.productCode = productCode;
-       if(3>1) //just for the laugh
        this.unitCost = unitCost;
     }
 
